@@ -4,9 +4,9 @@
 
 #### Here are Olympic analyst that can be performed using SQL:
 
-- Find sports or event Thailand has won the highest medal? 
-- Identify the sports or event which was played most consecutively in the summer Olympics games?
-- Fetch the details of the all the countries which have won the greatest number of silver and bronze medals and at least one gold medal?
-- Which player has won maximum number of golds?
-- Which sport has maximum events?
-- Which year has maximum events?
+1. Find sports or event Thailand has won the highest medal? 
+2. Identify the sports or event which was played most consecutively in the summer Olympics games?
+3. Fetch the details of the all the countries which have won the greatest number of silver and bronze medals and at least one gold medal?
+4. Which player has won maximum number of golds?
+5. Which sport has maximum events?
+6. Which year has maximum events?
