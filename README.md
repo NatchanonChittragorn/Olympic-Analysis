@@ -1,8 +1,8 @@
 # Olympic-Analysis
 
-## Analyzing the Olympics with SQL involves querying a database that contains information on various aspects of the Olympic Games, such as athletes, events, countries, and medals. SQL is a programming language that is widely used to manage and analyze large databases, making it a useful tool for exploring and drawing insights from Olympic data.
+### Analyzing the Olympics with SQL involves querying a database that contains information on various aspects of the Olympic Games, such as athletes, events, countries, and medals. SQL is a programming language that is widely used to manage and analyze large databases, making it a useful tool for exploring and drawing insights from Olympic data.
 
-Here are Olympic analyses that can be performed using SQL:
+#### Here are Olympic analyst that can be performed using SQL:
 
 - Find sports or event Thailand has won the highest medal? 
 - Identify the sports or event which was played most consecutively in the summer Olympics games?
